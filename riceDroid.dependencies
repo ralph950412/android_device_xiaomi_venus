@@ -27,7 +27,13 @@
     "repository"  : "android_vendor_xiaomi_sm8350-common",
     "target_path" : "vendor/xiaomi/sm8350-common",
     "branch"      : "rice-tm",
-    "remote"      : "github"     
+    "remote"      : "github"    
+  },
+  {
+    "repository"  : "vendor_xiaomi_venus-miuicamera",
+    "target_path" : "vendor/xiaomi/venus-miuicamera",
+    "branch"      : "tm",
+    "remote"      : "gitlab"  
   },
   {
     "repository"  : "vendor_xiaomi_venus-firmware",
