@@ -34,6 +34,8 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay-lineage
 
 PRODUCT_PACKAGES += \
     FrameworksResVenus \
+    SettingsOverlayM2011K2C \
+    SettingsOverlayM2011K2G \
     SettingsProviderOverlayVenus \
     SettingsResVenus \
     SystemUIResVenus
