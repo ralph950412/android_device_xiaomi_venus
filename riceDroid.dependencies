@@ -36,8 +36,8 @@
     "remote"      : "pixel-devices-blobs"
   },
   {
-    "repository"  : "vendor_xiaomi_venus-gcam",
-    "target_path" : "vendor/xiaomi/venus-gcam",
+    "repository"  : "vendor_xiaomi_venus-miuicamera",
+    "target_path" : "vendor/xiaomi/venus-miuicamera",
     "branch"      : "thirteen",
     "remote"      : "gitlab"
   }
